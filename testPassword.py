@@ -3,7 +3,7 @@ import Password
 
 class testPassword(unittest.TestCase):
     def test1(self):
-        True
+        pass
 
 if __name__ == '__main__':
     unittest.main()
